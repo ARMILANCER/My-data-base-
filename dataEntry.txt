@@ -1,0 +1,26 @@
+ID: 1, Nome: Jack, Cognome: Brown, Sesso: Maschio, Posizione: Sviluppatore, Stipendio: 35153.63123345457, DataAssunzione: 2017-1-2, ID_Reparto: 1
+ID: 2, Nome: Bob, Cognome: Green, Sesso: Maschio, Posizione: Analista, Stipendio: 31374.489265330467, DataAssunzione: 2012-7-20, ID_Reparto: 5
+ID: 3, Nome: Bob, Cognome: Johnson, Sesso: Maschio, Posizione: Amministratore, Stipendio: 36354.28238001209, DataAssunzione: 2012-2-1, ID_Reparto: 1
+ID: 4, Nome: Jack, Cognome: Johnson, Sesso: Maschio, Posizione: Amministratore, Stipendio: 32239.690093398593, DataAssunzione: 2017-12-1, ID_Reparto: 1
+ID: 5, Nome: Bob, Cognome: Brown, Sesso: Maschio, Posizione: Analista, Stipendio: 32809.21672794204, DataAssunzione: 2011-10-11, ID_Reparto: 2
+ID: 6, Nome: Jack, Cognome: Walker, Sesso: Femmina, Posizione: Manager, Stipendio: 39429.95900191696, DataAssunzione: 2014-4-8, ID_Reparto: 5
+ID: 7, Nome: Alice, Cognome: Smith, Sesso: Maschio, Posizione: Sviluppatore, Stipendio: 37491.272831098155, DataAssunzione: 2011-7-14, ID_Reparto: 3
+ID: 8, Nome: Frank, Cognome: Walker, Sesso: Femmina, Posizione: Analista, Stipendio: 39949.644778768175, DataAssunzione: 2015-10-2, ID_Reparto: 4
+ID: 9, Nome: Helen, Cognome: Johnson, Sesso: Maschio, Posizione: Sviluppatore, Stipendio: 38598.22693329807, DataAssunzione: 2014-1-20, ID_Reparto: 5
+ID: 10, Nome: Bob, Cognome: Davis, Sesso: Femmina, Posizione: Analista, Stipendio: 34982.977052046466, DataAssunzione: 2012-4-1, ID_Reparto: 1
+ID: 11, Nome: Alice, Cognome: Clark, Sesso: Maschio, Posizione: Amministratore, Stipendio: 35637.07199252091, DataAssunzione: 2016-4-13, ID_Reparto: 4
+ID: 12, Nome: Bob, Cognome: Green, Sesso: Femmina, Posizione: Analista, Stipendio: 34794.849323928036, DataAssunzione: 2019-12-22, ID_Reparto: 1
+ID: 13, Nome: Helen, Cognome: Hall, Sesso: Maschio, Posizione: Manager, Stipendio: 39315.22569508338, DataAssunzione: 2018-4-5, ID_Reparto: 1
+ID: 14, Nome: Bob, Cognome: Lee, Sesso: Maschio, Posizione: Analista, Stipendio: 37891.670499776985, DataAssunzione: 2012-9-26, ID_Reparto: 2
+ID: 15, Nome: Charlie, Cognome: Wilson, Sesso: Maschio, Posizione: Manager, Stipendio: 35546.53996545277, DataAssunzione: 2017-2-19, ID_Reparto: 3
+ID: 16, Nome: Helen, Cognome: Hall, Sesso: Maschio, Posizione: Sviluppatore, Stipendio: 32674.283294319303, DataAssunzione: 2016-3-10, ID_Reparto: 3
+ID: 17, Nome: Isabel, Cognome: Wilson, Sesso: Maschio, Posizione: Analista, Stipendio: 31182.853454205808, DataAssunzione: 2013-10-16, ID_Reparto: 4
+ID: 18, Nome: Frank, Cognome: Hall, Sesso: Maschio, Posizione: Analista, Stipendio: 31237.12661667924, DataAssunzione: 2014-12-8, ID_Reparto: 2
+ID: 19, Nome: Alice, Cognome: Green, Sesso: Femmina, Posizione: Manager, Stipendio: 34359.424530973076, DataAssunzione: 2011-12-6, ID_Reparto: 4
+ID: 20, Nome: Frank, Cognome: Smith, Sesso: Maschio, Posizione: Manager, Stipendio: 36907.30232295233, DataAssunzione: 2016-8-12, ID_Reparto: 5
+ID: 21, Nome: Charlie, Cognome: Smith, Sesso: Femmina, Posizione: Analista, Stipendio: 37976.539352314976, DataAssunzione: 2014-5-4, ID_Reparto: 1
+ID: 22, Nome: David, Cognome: Wilson, Sesso: Femmina, Posizione: Amministratore, Stipendio: 38818.5791507651, DataAssunzione: 2013-12-5, ID_Reparto: 2
+ID: 23, Nome: Charlie, Cognome: Hall, Sesso: Maschio, Posizione: Analista, Stipendio: 32753.140585994814, DataAssunzione: 2013-5-27, ID_Reparto: 3
+ID: 24, Nome: Alice, Cognome: Hall, Sesso: Femmina, Posizione: Amministratore, Stipendio: 36919.799417293354, DataAssunzione: 2016-12-15, ID_Reparto: 3
+ID: 25, Nome: David, Cognome: Wilson, Sesso: Maschio, Posizione: Analista, Stipendio: 32564.34376159119, DataAssunzione: 2013-4-18, ID_Reparto: 2
+
